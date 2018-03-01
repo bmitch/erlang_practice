@@ -1,1 +1,3 @@
-# erlang_practice
+# Erlang Practice Programs
+
+* 01 - Factorial
